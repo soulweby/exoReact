@@ -8,9 +8,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Lora&family=Nosifer&display=swap');
 .App {
   text-align: center;
+  width: 100%;
+  color: white;
 }
 body{
   background: crimson ;
   font-family: 'Lora', serif;
-/* font-family: 'Nosifer', cursive; */
+
+}
+.first-page{
+  color: white;
+ 
+}
+h1{
+ font-family: 'Nosifer', cursive;
 }
